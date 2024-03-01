@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Zeinab Elmi</h1>
 <h3 align="center">A passionate Postdoctral Researcher</h3>
 
+<h3 align="center">    <img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/a0c9dc81-2da3-4094-a624-f2f90c7df5fd" width="350px" height="200px" />
+
+   <br/>  
+   <br/> 
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Cormorant+Garamond+&weight=100&size=19&pause=984&color=3B1D34&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;I'm+always+eager+to+learn+new+things+and+improve.;I'm+fervently+advancing+my+skills+in+data+science%2C+analytics%2C+operations+research%2C+and+supply+chain+for+impactful+growth.;I+thrive+as+a+skilled+problem+solver+and+collaborative+team+player%2C+consistently+overcoming+challenges+with+determination+and+fostering+synergy+within+teams.)](https://git.io/typing-svg) 
+   <br />
+
 <div align="center">
   <h5 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h5> 
 </div>
 
-<div style="text-align:center;">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeinabelmi/)
-    [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](mailto:elmi.zeinab@gmail.com)
+<div align="center">
+<a href="mailto:elmi.zeinab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/zeinabelmi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </div>
-
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/zeinabelmi/count.svg?" />
