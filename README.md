@@ -3,10 +3,9 @@
 
 <br/> 
 
-<div align="center"><img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/a0c9dc81-2da3-4094-a624-f2f90c7df5fd" width="300px" height="200px" /> </div>  
-<div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=15&pause=984&color=000000&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;Strong+at+problem-solving+and+team+collaboration.;I'm+always+eager+to+learn+and+improve.;Elevating+expertise+in+data+science+and+operations+research." alt="Typing SVG" /></a>
-</div>
+<h3 align="center"><img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/a0c9dc81-2da3-4094-a624-f2f90c7df5fd" width="300px" height="200px" /></h3> 
+      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=984&color=000000&background=FFFFFF00&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;Strong+at+problem-solving+and+team+collaboration.;I'm+always+eager+to+learn+and+improve.;Elevating+expertise+in+data+science+and+operations+research.)](https://git.io/typing-svg)
     
 <div align="center">
    <h5 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h5> 
