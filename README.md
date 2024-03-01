@@ -166,9 +166,6 @@
 
 # 📈 GitHub Stats 
 ![](https://komarev.com/ghpvc/?username=zeinabelmi)
+
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=zeinabelmi&theme=whatsapp-light2&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabelmi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zeinabelmi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
