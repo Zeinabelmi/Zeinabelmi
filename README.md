@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeinab Elmi</h1>
 <h3 align="center">A passionate Postdoctral Researcher</h3>
 <div align="center">
-   <h3 align="center"> 
       <img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/a0c9dc81-2da3-4094-a624-f2f90c7df5fd" width="350px" height="300px" />
       <br/> 
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=15&pause=984&color=000000&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;Strong+at+problem- 
@@ -176,13 +175,10 @@
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=zeinabelmi&theme=whatsapp-light2&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 
-
-<img
-  src="https://github-readme-stats-zeinabelmi.vercel.app/api?username=zeinabelmi&theme=vue-dark&show_icons=true&hide_border=true&show=reviews&hide=contribs&hide_rank=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"
-/>
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=zeinabelmi&theme=vue-dark&hide_border=true"
 />
+
 ![](https://github-readme-stats.vercel.app/api?username=zeinabelmi&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabelmi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
