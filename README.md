@@ -169,14 +169,14 @@
 | --- | --- |
 | IBM Data Science Professional Certificate | Coursera |
 | Discrete Optimization | Coursera |
-| Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera |
+| Introduction to TensorFlow for AI, Machine Learning, and Deep Learning | Coursera |
 | Convolutional Neural Networks in TensorFlow | Coursera |
 | Natural Language Processing in TensorFlow | Coursera  | 
 | Sequences, Time Series and Prediction | Coursera |
 | Learning Power BI Desktop | Linkedin Learning |
 | Tableau for Data Scientists | Linkedin Learning |
 | Python | In-Person User Groups |
-| All Topics Covered Above | Numerous forums, Youtube and Discord Servers |
+
 
 # 📈 GitHub Stats 
 <h5 align="center">
