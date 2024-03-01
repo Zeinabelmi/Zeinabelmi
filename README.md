@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zeinab Elmi</h1>
 <h3 align="center">A passionate Postdoctral Researcher</h3>
-
+<div align="center">  
+  <img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/0d07278a-780f-45f4-9b27-3ff4effaa2ba"width="400px" height="210px"/>
+</div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=984&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;Strong+at+problem-solving+and+team+collaboration.;I'm+always+eager+to+learn+and+improve.;Elevating+expertise+in+data+science+and+operations+research." alt="Typing SVG" /></a>
 </div>
