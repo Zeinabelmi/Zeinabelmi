@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zeinab Elmi</h1>
 <h3 align="center">A passionate Postdoctral Researcher</h3>
-
+<div align="center">
 <h3 align="center"><img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/a0c9dc81-2da3-4094-a624-f2f90c7df5fd" width="350px" height="350px" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=+Cormorant+Garamond+&weight=100&size=19&pause=984&color=3B1D34&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;I'm+always+eager+to+learn+new+things+and+improve.;I'm+fervently+advancing+my+skills+in+data+science%2C+analytics%2C+operations+research%2C+and+supply+chain+for+impactful+growth.;I+thrive+as+a+skilled+problem+solver+and+collaborative+team+player%2C+consistently+overcoming+challenges+with+determination+and+fostering+synergy+within+teams." alt="Typing SVG" /></a>
+</div>
+   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=15&pause=984&color=000000&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;Strong+at+problem-solving+and+team+collaboration.;I'm+always+eager+to+learn+and+improve.;Elevating+expertise+in+data+science+and+operations+research." alt="Typing SVG" /></a>
 
    <br/>  
    <br/> 
