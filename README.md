@@ -6,15 +6,12 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=984&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;Strong+at+problem-solving+and+team+collaboration.;I'm+always+eager+to+learn+and+improve.;Elevating+expertise+in+data+science+and+operations+research." alt="Typing SVG" /></a>
 </div>
-
 <h5 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> 
   
 <a href="mailto:elmi.zeinab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/zeinabelmi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </h5>
-
 # 🔧 Technologies & Tools
-
 <table>
   <tr>
     <td align="center" height="108" width="108">
