@@ -3,7 +3,7 @@
 
 <br/> 
 
-<h3 align="center"><img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/a0c9dc81-2da3-4094-a624-f2f90c7df5fd" width="300px" height="200px" /></h3> 
+<h3 align="center"><img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/a0c9dc81-2da3-4094-a624-f2f90c7df5fd" width="300px" height="200px" />
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=984&color=000000&background=FFFFFF00&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;Strong+at+problem-solving+and+team+collaboration.;I'm+always+eager+to+learn+and+improve.;Elevating+expertise+in+data+science+and+operations+research.)](https://git.io/typing-svg)
     
