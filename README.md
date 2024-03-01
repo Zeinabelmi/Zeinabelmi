@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zeinab Elmi</h1>
 <h3 align="center">A passionate Postdoctral Researcher</h3>
-<h3 align="center">
-      <img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/a0c9dc81-2da3-4094-a624-f2f90c7df5fd" width="350px" height="300px" />
-      
-      <br/> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=15&pause=984&color=000000&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;Strong+at+problem-solving+and+team+collaboration.;I'm+always+eager+to+learn+and+improve.;Elevating+expertise+in+data+science+and+operations+research." alt="Typing SVG" /></a>
+<div style="text-align: center;"><img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/a0c9dc81-2da3-4094-a624-f2f90c7df5fd" width="350px" height="300px" /> </div>  
 
+<br/> 
+
+<div style="text-align: center;">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=15&pause=984&color=000000&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;Strong+at+problem-solving+and+team+collaboration.;I'm+always+eager+to+learn+and+improve.;Elevating+expertise+in+data+science+and+operations+research." alt="Typing SVG" /></a>
+</div>
     
 <div align="center">
    <h5 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h5> 
@@ -174,10 +175,6 @@
 ![](https://komarev.com/ghpvc/?username=zeinabelmi)
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=zeinabelmi&theme=whatsapp-light2&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=zeinabelmi&theme=vue-dark&hide_border=true"
-/>
 
 ![](https://github-readme-stats.vercel.app/api?username=zeinabelmi&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
