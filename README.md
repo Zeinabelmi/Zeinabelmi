@@ -5,10 +5,11 @@
   <h5 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h5> 
 </div>
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeinabelmi/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](mailto:elmi.zeinab@gmail.com)
+<div style="text-align:center;">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeinabelmi/)
+    [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](mailto:elmi.zeinab@gmail.com)
 </div>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/zeinabelmi/count.svg?" />
