@@ -5,7 +5,7 @@
 
    <br/>  
    <br/> 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Cormorant+Garamond+&weight=100&size=19&pause=984&color=3B1D34&random=false&width=435&lines=Hi%2C+I+am+Zeinab+Elmi.+;I'm+always+eager+to+learn+new+things+and+improve.;I'm+fervently+advancing+my+skills+in+data+science%2C+analytics%2C+operations+research%2C+and+supply+chain+for+impactful+growth.;I+thrive+as+a+skilled+problem+solver+and+collaborative+team+player%2C+consistently+overcoming+challenges+with+determination+and+fostering+synergy+within+teams.)](https://git.io/typing-svg) 
+
    <br />
 
 <div align="center">
