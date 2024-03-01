@@ -166,6 +166,6 @@
 
 # 📈 GitHub Stats 
 ![](https://komarev.com/ghpvc/?username=zeinabelmi)
-
+<h5 align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=zeinabelmi&theme=whatsapp-light2&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
-
+</h5>
