@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeinab Elmi</h1>
-<h3 align="center">A passionate Postdoctral Researcher</h3>
+<h3 align="center">A passionate Operations Research Scientist</h3>
 <div align="center">  
   <img src="https://github.com/Zeinabelmi/Zeinabelmi/assets/114510150/0d07278a-780f-45f4-9b27-3ff4effaa2ba"width="400px" height="210px"/>
 </div>
